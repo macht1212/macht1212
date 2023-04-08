@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Alex! <br>And I'm a Junior Python developer. 
 
 
