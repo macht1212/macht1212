@@ -9,7 +9,3 @@ Hello! I am Alex.<br>I am a Python developer. <br>My main activity is focused on
 ![](https://github-readme-streak-stats.herokuapp.com/?user=macht1212&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=macht1212&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
